@@ -1,8 +1,8 @@
 # jeremias-animation
 
-(1) in  
-(2) out 
-(3) inTop 
-(4) inBottom 
-(5) inLeft
-(5) inRigth 
+<li>(1) in  </li>
+<li>(2) out </li>
+<li>(3) inTop </li>
+<li>(4) inBottom </li>
+<li>(5) inLeft</li>
+<li>(5) inRigth </li>
