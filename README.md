@@ -6,3 +6,5 @@
 <li>(4) inBottom </li>
 <li>(5) inLeft</li>
 <li>(5) inRigth </li>
+<li>(6) inOut </li>
+
